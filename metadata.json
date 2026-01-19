@@ -1,0 +1,7 @@
+{
+  "name": "Maya - Adaptive AI Companion",
+  "description": "A high-fidelity AI avatar featuring live voice interaction with emotional tone adaptation using the Gemini 2.5 Flash Native Audio API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
